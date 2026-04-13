@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/thuisbatterij-zonder-zonnepanelen/layout,_N_T_/thuisbatterij-zonder-zonnepanelen/page,_N_T_/thuisbatterij-zonder-zonnepanelen"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/thuisbatterij-zonder-zonnepanelen/__PAGE__",
+    "/thuisbatterij-zonder-zonnepanelen",
+    "/_index",
+    "/_head"
+  ]
+}

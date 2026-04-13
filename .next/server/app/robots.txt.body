@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+Disallow: /ga/
+
+Sitemap: https://thuisbatterijbelgie.be/sitemap.xml

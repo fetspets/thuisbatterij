@@ -1,0 +1,18 @@
+{
+  "/_global-error/page": "app/_global-error/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/leads/route": "app/api/leads/route.js",
+  "/beste-thuisbatterij/page": "app/beste-thuisbatterij/page.js",
+  "/ga/[brand]/route": "app/ga/[brand]/route.js",
+  "/hoeveel-kwh-thuisbatterij/page": "app/hoeveel-kwh-thuisbatterij/page.js",
+  "/is-thuisbatterij-rendabel/page": "app/is-thuisbatterij-rendabel/page.js",
+  "/offerte-thuisbatterij/page": "app/offerte-thuisbatterij/page.js",
+  "/page": "app/page.js",
+  "/robots.txt/route": "app/robots.txt/route.js",
+  "/sitemap.xml/route": "app/sitemap.xml/route.js",
+  "/tesla-vs-lg-thuisbatterij/page": "app/tesla-vs-lg-thuisbatterij/page.js",
+  "/thuisbatterij-installatie/page": "app/thuisbatterij-installatie/page.js",
+  "/thuisbatterij-premie/page": "app/thuisbatterij-premie/page.js",
+  "/thuisbatterij-prijs/page": "app/thuisbatterij-prijs/page.js",
+  "/thuisbatterij-zonder-zonnepanelen/page": "app/thuisbatterij-zonder-zonnepanelen/page.js"
+}
