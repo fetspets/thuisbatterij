@@ -1,6 +1,0 @@
-1:"$Sreact.fragment"
-2:I[22016,["/_next/static/chunks/6d65ce0580ef9d11.js","/_next/static/chunks/d2be314c3ece3fbe.js"],""]
-3:I[97367,["/_next/static/chunks/6d65ce0580ef9d11.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
-4:"$Sreact.suspense"
-0:{"buildId":"yiqmKBm402uKy9_fGgNNq","rsc":["$","$1","c",{"children":[["$","div",null,{"style":{"maxWidth":600,"margin":"80px auto","padding":"0 20px","textAlign":"center"},"children":[["$","div",null,{"style":{"fontSize":64,"marginBottom":16},"children":"🔋"}],["$","h1",null,{"style":{"fontFamily":"Fraunces, serif","fontSize":36,"fontWeight":900,"color":"var(--blue)","marginBottom":12},"children":"Pagina niet gevonden"}],["$","p",null,{"style":{"fontSize":16,"color":"var(--muted)","lineHeight":1.7,"marginBottom":28,"fontFamily":"DM Sans, sans-serif"},"children":"Deze pagina bestaat niet of is verplaatst. Gebruik de navigatie om verder te gaan."}],["$","$L2",null,{"href":"/","className":"btn-primary","style":{"maxWidth":280,"margin":"0 auto"},"children":"Terug naar de vergelijkingspagina →"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
-5:null
